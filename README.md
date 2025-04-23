@@ -30,7 +30,7 @@
 
 ![Image](https://github.com/user-attachments/assets/335a7fae-6b3a-4968-8d54-f124a0a79daf)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Image](https://github.com/user-attachments/assets/f0bedc71-83f2-48e1-8c77-57bbe1a1cce0)
 
 - [Demo Project](https://armanchinipardaz-web.github.io/web24-sess8/)
 
