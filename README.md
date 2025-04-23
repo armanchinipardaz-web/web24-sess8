@@ -28,7 +28,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Image](https://github.com/user-attachments/assets/21873fa5-fa3d-4013-b45f-e1e673445581)
+![Image](https://github.com/user-attachments/assets/335a7fae-6b3a-4968-8d54-f124a0a79daf)
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
