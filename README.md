@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armanchinipardaz-web&show_icons=true&locale=en" alt="armanchinipardaz-web" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armanchinipardaz-web&" alt="armanchinipardaz-web" /></p>
-# Accordion-Menu-By-React
+# Accordion-Menu-By-css
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
@@ -36,9 +36,9 @@
 
 - Developed by armanchinipardaz
 
-- Created - 2022-11-26
+- Created - 2025-4-19
 
-- Technologies Used - Html , css , js , React.js
+- Technologies Used - Html , css
 
 - Hooks Used : useState 
 
